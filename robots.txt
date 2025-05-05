@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://robobu-gk.github.io/sitemap.xml
+Sitemap: https://robobu-gk.github.io/robobu.github.io/sitemap.xml
